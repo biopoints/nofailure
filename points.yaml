@@ -17,7 +17,8 @@
     (Updated every 5 minutes.)'
 - children:
   - 4yoKb7Afjqm-wuWZj7P992rS
-  collapsed: true
+  - TCqZcAECZ36iDI9fuGDyfZ5i
+  - 0MEsSuQmXUf_z7XytaxG7zbr
   content: Circulatory failures
   created: 1640794783959
   id: ydpW3poRGziaNV0r9rUG6C8c
@@ -90,4 +91,14 @@
   created: 1640797385566
   id: PknrJgKLhe8ZcLHFgOw8anMp
   modified: 1640797401421
+  note: ''
+- content: Blood
+  created: 1640806166792
+  id: TCqZcAECZ36iDI9fuGDyfZ5i
+  modified: 1640806174808
+  note: ''
+- content: ''
+  created: 1640806174603
+  id: 0MEsSuQmXUf_z7XytaxG7zbr
+  modified: 1640806174808
   note: ''
