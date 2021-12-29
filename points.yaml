@@ -1,0 +1,90 @@
+- children:
+  - 3xTxFPWxdYJd0zk4tqU1YZqU
+  - qziJokETv9x1I6LE_CQoZnbI
+  - ydpW3poRGziaNV0r9rUG6C8c
+  - LxjQvNjaoF_kU1YRpEaUHID6
+  content: Biopoints of Failure
+  created: 1639724855598
+  id: root
+  modified: 1640799733680
+  note: 'A human or a fruit-fly, your death is caused by points of system failure
+    --
+
+    __**let''s organize the possible points of failure** by organism and abstraction
+    level, and eliminate.__'
+- children:
+  - 4yoKb7Afjqm-wuWZj7P992rS
+  collapsed: true
+  content: Circulatory failures
+  created: 1640794783959
+  id: ydpW3poRGziaNV0r9rUG6C8c
+  modified: 1640794903747
+  note: ''
+- children:
+  - PknrJgKLhe8ZcLHFgOw8anMp
+  - _GUHPZO1rZ0rBnW1_NXo1oWH
+  - JnAGuK3nAfIezD1FyDNzU5EW
+  - iotaYqw0CWcE3QGHyAguhDY6
+  - K5Mf4ch2_Tq32zUAZufviY3H
+  collapsed: true
+  content: Signaling failures
+  created: 1640794892165
+  id: LxjQvNjaoF_kU1YRpEaUHID6
+  modified: 1640794903747
+  note: ''
+- content: Neurological signaling
+  created: 1640795236525
+  id: _GUHPZO1rZ0rBnW1_NXo1oWH
+  modified: 1640795258935
+  note: ''
+- content: Social signaling
+  created: 1640795477914
+  id: JnAGuK3nAfIezD1FyDNzU5EW
+  modified: 1640795548387
+  note: for example, emergency signaling and response
+- content: Humoral signaling
+  created: 1640795513112
+  id: iotaYqw0CWcE3QGHyAguhDY6
+  modified: 1640797257467
+  note: ''
+- children:
+  - by1h1kH6rSK1slKuupWzUWoU
+  collapsed: true
+  content: Growth control failures
+  created: 1640795726284
+  id: qziJokETv9x1I6LE_CQoZnbI
+  modified: 1640795914039
+  note: ''
+- children:
+  - 2UGfUnGluV8GzT-OAsP5UFwp
+  collapsed: true
+  content: Metabolic failures
+  created: 1640795873190
+  id: 3xTxFPWxdYJd0zk4tqU1YZqU
+  modified: 1640795874008
+  note: ''
+- content: Immune signaling
+  created: 1640797265865
+  id: K5Mf4ch2_Tq32zUAZufviY3H
+  modified: 1640797278424
+  note: ''
+- content: __(Clogging)__
+  created: 1640797335573
+  id: 2UGfUnGluV8GzT-OAsP5UFwp
+  modified: 1640797410686
+  note: ''
+- content: __(Clogging)__
+  created: 1640797348409
+  id: by1h1kH6rSK1slKuupWzUWoU
+  modified: 1640797401421
+  note: ''
+- content: __(Clogging)__
+  created: 1640797352148
+  id: 4yoKb7Afjqm-wuWZj7P992rS
+  modified: 1640797401421
+  note: ''
+- content: __(Clearing)__
+  created: 1640797385566
+  id: PknrJgKLhe8ZcLHFgOw8anMp
+  modified: 1640797401421
+  note: ''
