@@ -6,12 +6,15 @@
   content: Biopoints of Failure
   created: 1639724855598
   id: root
-  modified: 1640799733680
+  modified: 1640804801649
   note: 'A human or a fruit-fly, your death is caused by points of system failure
     --
 
     __**let''s organize the possible points of failure** by organism and abstraction
-    level, and eliminate.__'
+    level, and eliminate.__
+
+    Want to analyze, not just write? -- [DOWNLOAD RAW DATA 📀](https://github.com/biopoints/nofailure/blob/main/points.yaml)
+    (Updated every 5 minutes.)'
 - children:
   - 4yoKb7Afjqm-wuWZj7P992rS
   collapsed: true
