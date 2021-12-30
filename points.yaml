@@ -1,4 +1,5 @@
 - children:
+  - ZE3xukrHvLiyWmhb720sFJaz
   - LxjQvNjaoF_kU1YRpEaUHID6
   - ydpW3poRGziaNV0r9rUG6C8c
   - qziJokETv9x1I6LE_CQoZnbI
@@ -73,10 +74,10 @@
   - yPd1HrK-IGK823miAYSLwLFO
   - 7nXfQswihXvlWs9LyDV_1Miy
   - uNHG1dO50W7_hsXEnO5n5I5w
-  content: '**BY ORGANISM SUBSYSTEM**'
+  content: '**BY ORGANISM SUBSYSTEM** (expand)'
   created: 1640797335573
   id: 2UGfUnGluV8GzT-OAsP5UFwp
-  modified: 1640835714585
+  modified: 1640838262494
   note: ''
 - content: ''
   created: 1640797348409
@@ -90,10 +91,10 @@
   note: ''
 - children:
   - GmGdBuU71xnmL0zsZblwRxM6
-  content: 'Growth resourcefulness failures #regen'
+  content: 'Growth resource failures #regen'
   created: 1640834461883
   id: TTMM5GLScxctkNflXxVAXc_2
-  modified: 1640834793527
+  modified: 1640838290346
   note: ''
 - content: Telomere shortening
   created: 1640834485917
@@ -182,4 +183,9 @@
   created: 1640835542425
   id: 7nXfQswihXvlWs9LyDV_1Miy
   modified: 1640835551296
+  note: ''
+- content: '**BY ABSTRACTION LEVEL:**'
+  created: 1640838211618
+  id: ZE3xukrHvLiyWmhb720sFJaz
+  modified: 1640838249998
   note: ''
