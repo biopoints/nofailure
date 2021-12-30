@@ -26,7 +26,7 @@
   content: 'Circulatory failures #clearing #clogging'
   created: 1640794783959
   id: ydpW3poRGziaNV0r9rUG6C8c
-  modified: 1640834697194
+  modified: 1640841223458
   note: ''
 - children:
   - _GUHPZO1rZ0rBnW1_NXo1oWH
@@ -37,7 +37,7 @@
   content: 'Signaling failures  #clearing'
   created: 1640794892165
   id: LxjQvNjaoF_kU1YRpEaUHID6
-  modified: 1640834665271
+  modified: 1640841223458
   note: ''
 - content: Neurological signaling
   created: 1640795236525
@@ -60,12 +60,12 @@
   content: 'Growth control failures #clogging '
   created: 1640795726284
   id: qziJokETv9x1I6LE_CQoZnbI
-  modified: 1640834715463
+  modified: 1640841223458
   note: ''
 - content: 'Metabolic failures #clogging #clearing '
   created: 1640795873190
   id: 3xTxFPWxdYJd0zk4tqU1YZqU
-  modified: 1640834832190
+  modified: 1640841223458
   note: ''
 - content: Immune signaling
   created: 1640797265865
@@ -81,7 +81,7 @@
   content: '**BY ORGANISM SUBSYSTEM** (expand the bullet point)'
   created: 1640797335573
   id: 2UGfUnGluV8GzT-OAsP5UFwp
-  modified: 1640839701572
+  modified: 1640841243456
   note: ''
 - content: ''
   created: 1640797348409
@@ -98,7 +98,7 @@
   content: 'Growth resource failures #regen'
   created: 1640834461883
   id: TTMM5GLScxctkNflXxVAXc_2
-  modified: 1640838290346
+  modified: 1640841223458
   note: ''
 - content: Telomere shortening
   created: 1640834485917
@@ -191,15 +191,18 @@
   modified: 1640835551296
   note: ''
 - color: 6
-  content: '**BY ABSTRACTION LEVEL** (expand each bullet point)'
+  content: '**[[Edit](/Biopoints of Failure)] BY ABSTRACTION LEVEL** (expand each
+    bullet point)'
   created: 1640838211618
   id: ZE3xukrHvLiyWmhb720sFJaz
-  modified: 1640839701572
+  modified: 1640841183453
   note: ''
 - color: 5
   content: '**DOWNLOAD THIS LIST**'
   created: 1640839408856
   id: EQ-3ES1czyAgxSehqpin1HeE
-  modified: 1640839608026
-  note: Click this link - [raw data 📀](https://github.com/biopoints/nofailure/blob/main/points.yaml)
+  modified: 1640841263460
+  note: 'Click this link - [raw data 📀](https://github.com/biopoints/nofailure/blob/main/points.yaml)
     to download this page (auto-updated every 5 minutes.)
+
+    **Note**: editing does not require clicking "Edit" - you just edit.'
