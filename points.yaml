@@ -77,10 +77,11 @@
   - yPd1HrK-IGK823miAYSLwLFO
   - 7nXfQswihXvlWs9LyDV_1Miy
   - uNHG1dO50W7_hsXEnO5n5I5w
-  content: '**BY ORGANISM SUBSYSTEM** (expand)'
+  color: 6
+  content: '**BY ORGANISM SUBSYSTEM** (expand the bullet point)'
   created: 1640797335573
   id: 2UGfUnGluV8GzT-OAsP5UFwp
-  modified: 1640838262494
+  modified: 1640839701572
   note: ''
 - content: ''
   created: 1640797348409
@@ -152,11 +153,13 @@
   - EiqHw5ERt5DDIvwyE_C3qxmV
   - eDF4pPa3SgfkGkPRfot8abL7
   - rFnne15C4Do9KuhfaAso0c8n
+  color: 4
   content: '**BY ORGAN**'
   created: 1640835317333
   id: EzERT5JWROJqyA6YHNVj9BoB
-  modified: 1640835731953
-  note: ''
+  modified: 1640839786984
+  note: 'Organs transcend subsystems: e.g., hand is made of bones, muscles, neurons,
+    etc.'
 - content: Brain
   created: 1640835364252
   id: srtnKwddJKEgqHeaRsFOmDsF
@@ -187,15 +190,16 @@
   id: 7nXfQswihXvlWs9LyDV_1Miy
   modified: 1640835551296
   note: ''
-- content: '**BY ABSTRACTION LEVEL**'
+- color: 6
+  content: '**BY ABSTRACTION LEVEL** (expand each bullet point)'
   created: 1640838211618
   id: ZE3xukrHvLiyWmhb720sFJaz
-  modified: 1640839429992
+  modified: 1640839701572
   note: ''
 - color: 5
   content: '**DOWNLOAD THIS LIST**'
   created: 1640839408856
   id: EQ-3ES1czyAgxSehqpin1HeE
-  modified: 1640839501115
-  note: '[Raw data 📀](https://github.com/biopoints/nofailure/blob/main/points.yaml)
-    of this page is auto-updated every 5 minutes.'
+  modified: 1640839608026
+  note: Click this link - [raw data 📀](https://github.com/biopoints/nofailure/blob/main/points.yaml)
+    to download this page (auto-updated every 5 minutes.)
