@@ -8,9 +8,9 @@
   content: Biopoints of Failure
   created: 1639724855598
   id: root
-  modified: 1640809263003
+  modified: 1640835619198
   note: "A human or a fruit-fly, your death is caused by points of system failure\
-    \ --\n__**let's organize the possible points of failure** by organism and abstraction\
+    \ -- __**so, let's organize the possible points of failure** by organism and abstraction\
     \ level, and eliminate.__\n\nWant to analyze, not just write?\n - [DOWNLOAD RAW\
     \ DATA \U0001F4C0](https://github.com/biopoints/nofailure/blob/main/points.yaml)\
     \  -- [✨CHAT HERE \U0001F4AC](https://0oo.li/project/33001/discord-invite?l=en)\n\
@@ -73,10 +73,10 @@
   - yPd1HrK-IGK823miAYSLwLFO
   - 7nXfQswihXvlWs9LyDV_1Miy
   - uNHG1dO50W7_hsXEnO5n5I5w
-  content: '**By Organism Subsystem**'
+  content: '**BY ORGANISM SUBSYSTEM**'
   created: 1640797335573
   id: 2UGfUnGluV8GzT-OAsP5UFwp
-  modified: 1640835468205
+  modified: 1640835714585
   note: ''
 - content: ''
   created: 1640797348409
@@ -148,10 +148,10 @@
   - EiqHw5ERt5DDIvwyE_C3qxmV
   - eDF4pPa3SgfkGkPRfot8abL7
   - rFnne15C4Do9KuhfaAso0c8n
-  content: '**By Organ**'
+  content: '**BY ORGAN**'
   created: 1640835317333
   id: EzERT5JWROJqyA6YHNVj9BoB
-  modified: 1640835501235
+  modified: 1640835731953
   note: ''
 - content: Brain
   created: 1640835364252
