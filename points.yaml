@@ -9,13 +9,16 @@
   content: Biopoints of Failure
   created: 1639724855598
   id: root
-  modified: 1640851790380
-  note: "Death is brain-death. Look for critical points of system failure. Look for\
-    \ what incapacitates the brain -- one is not dead, if not brain-dead, and that\
-    \ is a small subset of all of the ailments. Good BCI, blood supply and healf of\
-    \ brain.\n\nSome resources: [FIC](https://www.who.int/standards/classifications),\
-    \ [biodigital.com](biodigital.com) \n\n[Page data \U0001F4C0](https://github.com/biopoints/nofailure/blob/main/points.yaml)\
-    \ to download this page (auto-updated every 5 minutes.)"
+  modified: 1640851961294
+  note: 'Reducing probabiliy of death starts from listing possible points of failure.
+    Death is brain-death. Look for critical points of system failure. Look for what
+    incapacitates the brain -- one is not dead, if not brain-dead, and that is a small
+    subset of all of the ailments.
+
+
+    [Page data 📀](https://github.com/biopoints/nofailure/blob/main/points.yaml) to
+    download this page (auto-updated every 5 minutes.) Some resources: [FIC](https://www.who.int/standards/classifications),
+    [biodigital.com](biodigital.com)'
 - children:
   - TCqZcAECZ36iDI9fuGDyfZ5i
   collapsed: true
