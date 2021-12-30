@@ -1,5 +1,4 @@
 - children:
-  - EQ-3ES1czyAgxSehqpin1HeE
   - ZE3xukrHvLiyWmhb720sFJaz
   - LxjQvNjaoF_kU1YRpEaUHID6
   - ydpW3poRGziaNV0r9rUG6C8c
@@ -10,7 +9,7 @@
   content: Biopoints of Failure
   created: 1639724855598
   id: root
-  modified: 1640842083420
+  modified: 1640844603638
   note: '**A human or a fruit-fly, if death is caused by points of system failure,
 
     let''s organize the points of bio-failures by subsystems and eliminate them.
@@ -18,15 +17,18 @@
     **Questions?** Come to [discussion ✨](https://discord.gg/nwmsPRSeyR) publicly
     on Discord.
 
+    [Source data 📀](https://github.com/biopoints/nofailure/blob/main/points.yaml)
+    to download this page (auto-updated every 5 minutes.)
 
-    **Now, wiki-edit and organize the hierarchy below ↓**'
+
+    Primary resources: https://www.who.int/standards/classifications/international-classification-of-health-interventions'
 - children:
   - TCqZcAECZ36iDI9fuGDyfZ5i
   collapsed: true
-  content: 'Circulatory failures #clearing #clogging'
+  content: Circulatory failures
   created: 1640794783959
   id: ydpW3poRGziaNV0r9rUG6C8c
-  modified: 1640841223458
+  modified: 1640844444011
   note: ''
 - children:
   - _GUHPZO1rZ0rBnW1_NXo1oWH
@@ -34,10 +36,10 @@
   - iotaYqw0CWcE3QGHyAguhDY6
   - K5Mf4ch2_Tq32zUAZufviY3H
   collapsed: true
-  content: 'Signaling failures  #clearing'
+  content: 'Signaling failures '
   created: 1640794892165
   id: LxjQvNjaoF_kU1YRpEaUHID6
-  modified: 1640841223458
+  modified: 1640844444011
   note: ''
 - content: Neurological signaling
   created: 1640795236525
@@ -57,15 +59,15 @@
 - children:
   - by1h1kH6rSK1slKuupWzUWoU
   collapsed: true
-  content: 'Growth control failures #clogging '
+  content: Growth control failures
   created: 1640795726284
   id: qziJokETv9x1I6LE_CQoZnbI
-  modified: 1640841223458
+  modified: 1640844444011
   note: ''
-- content: 'Metabolic failures #clogging #clearing '
+- content: Metabolic failures
   created: 1640795873190
   id: 3xTxFPWxdYJd0zk4tqU1YZqU
-  modified: 1640841223458
+  modified: 1640844444011
   note: ''
 - content: Immune signaling
   created: 1640797265865
@@ -77,11 +79,11 @@
   - yPd1HrK-IGK823miAYSLwLFO
   - 7nXfQswihXvlWs9LyDV_1Miy
   - uNHG1dO50W7_hsXEnO5n5I5w
-  color: 6
+  collapsed: true
   content: '**BY ORGANISM SUBSYSTEM** (expand the bullet point)'
   created: 1640797335573
   id: 2UGfUnGluV8GzT-OAsP5UFwp
-  modified: 1640841243456
+  modified: 1640844481917
   note: ''
 - content: ''
   created: 1640797348409
@@ -95,10 +97,11 @@
   note: ''
 - children:
   - GmGdBuU71xnmL0zsZblwRxM6
-  content: 'Growth resource failures #regen'
+  collapsed: true
+  content: Growth resource failures
   created: 1640834461883
   id: TTMM5GLScxctkNflXxVAXc_2
-  modified: 1640841223458
+  modified: 1640844444011
   note: ''
 - content: Telomere shortening
   created: 1640834485917
@@ -111,6 +114,7 @@
   - 5eNSiw32Q_-uansjAaWtXN-C
   - DT0Y4Jh3vu0kMOYfCHh59qke
   - EzERT5JWROJqyA6YHNVj9BoB
+  collapsed: true
   content: Homo sapiens
   created: 1640834896588
   id: HEobeXtYP9OTGPDjw3V_0fbg
@@ -118,6 +122,7 @@
   note: ''
 - children:
   - 0YYVxCkta71DktdYCQR34RyO
+  collapsed: true
   content: __**Drosophila**__
   created: 1640834906550
   id: uNHG1dO50W7_hsXEnO5n5I5w
@@ -153,11 +158,12 @@
   - EiqHw5ERt5DDIvwyE_C3qxmV
   - eDF4pPa3SgfkGkPRfot8abL7
   - rFnne15C4Do9KuhfaAso0c8n
+  collapsed: true
   color: 4
-  content: '**BY ORGAN**'
+  content: '**BY FUNCTIONAL ORGAN**'
   created: 1640835317333
   id: EzERT5JWROJqyA6YHNVj9BoB
-  modified: 1640839786984
+  modified: 1640844422318
   note: 'Organs transcend subsystems: e.g., hand is made of bones, muscles, neurons,
     etc.'
 - content: Brain
@@ -190,19 +196,8 @@
   id: 7nXfQswihXvlWs9LyDV_1Miy
   modified: 1640835551296
   note: ''
-- color: 6
-  content: '**[[Edit](/Biopoints of Failure)] BY ABSTRACTION LEVEL** (expand each
-    bullet point)'
+- content: '**BY ABSTRACTION LEVEL** (expand each bullet point)'
   created: 1640838211618
   id: ZE3xukrHvLiyWmhb720sFJaz
-  modified: 1640841183453
+  modified: 1640844549964
   note: ''
-- color: 5
-  content: '**DOWNLOAD THIS LIST**'
-  created: 1640839408856
-  id: EQ-3ES1czyAgxSehqpin1HeE
-  modified: 1640841263460
-  note: 'Click this link - [raw data 📀](https://github.com/biopoints/nofailure/blob/main/points.yaml)
-    to download this page (auto-updated every 5 minutes.)
-
-    **Note**: editing does not require clicking "Edit" - you just edit.'
