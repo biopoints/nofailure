@@ -119,6 +119,16 @@
   note: ''
 - children:
   - 0YYVxCkta71DktdYCQR34RyO
+  - kx8mCKV4lNpGaq3xyYiQT5un
+  - jfhPyZKisoEYOMtE0__JLMe9
+  - egLKnIFbjYlG7ls2PF2kIVGa
+  - JteJIsBpoGAH_LZBHBA4Lwl6
+  - rdbfKWyPATMPV0-dV32SBddV
+  - bmF0ad4ltqWhOR0cEOaksST4
+  - bfQfmhXYSx32vEP8p4ujMvtm
+  - yW7q4EnrQrGZiSqdPy_4s_mz
+  - 0a6Da6QN1oF7NobXZV-35A-b
+  - B-xgfTJqKpH3qqCX83MH_71z
   collapsed: true
   content: __**Drosophila**__
   created: 1640834906550
@@ -130,10 +140,14 @@
   id: qgOC1acbO_nUnstGATkMP33h
   modified: 1640835209032
   note: ''
-- content: Wind pipe
+- children:
+  - DHC4Ol4Wh8XxAdwHwPNwIgbY
+  - 9oTOgoMpLMQgYrVWpOygwOR1
+  - 9PTJMOaQjtKu_EC1uNjYO-vD
+  content: Head
   created: 1640835125558
   id: 0YYVxCkta71DktdYCQR34RyO
-  modified: 1640835138635
+  modified: 1640851473622
   note: ''
 - content: Digestive system
   created: 1640835203150
@@ -208,4 +222,69 @@
   created: 1640845224770
   id: atpcwFy6l7-kXIotushvz4Sv
   modified: 1640845292079
+  note: ''
+- content: Corpora allata
+  created: 1640851461933
+  id: rdbfKWyPATMPV0-dV32SBddV
+  modified: 1640851473622
+  note: ''
+- content: Crop
+  created: 1640851461932
+  id: egLKnIFbjYlG7ls2PF2kIVGa
+  modified: 1640851473622
+  note: ''
+- content: Malpighian tubules
+  created: 1640851461934
+  id: 0a6Da6QN1oF7NobXZV-35A-b
+  modified: 1640851473622
+  note: ''
+- content: Abdominal fat body
+  created: 1640851461934
+  id: B-xgfTJqKpH3qqCX83MH_71z
+  modified: 1640851473622
+  note: ''
+- content: Proventriculus
+  created: 1640851461933
+  id: bmF0ad4ltqWhOR0cEOaksST4
+  modified: 1640851473622
+  note: ''
+- content: GN
+  created: 1640851461929
+  id: DHC4Ol4Wh8XxAdwHwPNwIgbY
+  modified: 1640851473622
+  note: ''
+- content: Ventral nerve cord
+  created: 1640851461931
+  id: jfhPyZKisoEYOMtE0__JLMe9
+  modified: 1640851473622
+  note: ''
+- content: DLP
+  created: 1640851461930
+  id: 9oTOgoMpLMQgYrVWpOygwOR1
+  modified: 1640851473622
+  note: ''
+- content: Brain
+  created: 1640851461931
+  id: kx8mCKV4lNpGaq3xyYiQT5un
+  modified: 1640851473622
+  note: ''
+- content: Aorta
+  created: 1640851461932
+  id: JteJIsBpoGAH_LZBHBA4Lwl6
+  modified: 1640851473622
+  note: ''
+- content: Hindgut
+  created: 1640851461934
+  id: yW7q4EnrQrGZiSqdPy_4s_mz
+  modified: 1640851473622
+  note: ''
+- content: Midgut
+  created: 1640851461933
+  id: bfQfmhXYSx32vEP8p4ujMvtm
+  modified: 1640851473622
+  note: ''
+- content: IPC of MNC
+  created: 1640851461930
+  id: 9PTJMOaQjtKu_EC1uNjYO-vD
+  modified: 1640851473622
   note: ''
