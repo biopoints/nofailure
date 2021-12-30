@@ -8,14 +8,14 @@
   content: Biopoints of Failure
   created: 1639724855598
   id: root
-  modified: 1640835989094
+  modified: 1640836803807
   note: "A human or a fruit-fly, your death is caused by points of system failure\
     \ -- __**so, let's organize the possible points of failure** by organism and abstraction\
     \ level, and eliminate.__\n\nWant to analyze, not just write?\n - [DOWNLOAD RAW\
     \ DATA \U0001F4C0](https://github.com/biopoints/nofailure/blob/main/points.yaml)\
     \  -- [✨CHAT HERE \U0001F4AC](https://0oo.li/project/33001/discord-invite?l=en)\n\
     \    ([biopoints:python] - on using python to edit)\n    (Auto-updated every 5\
-    \ minutes.)\n\n**Now, go editing (anonymously, publicly) ↓**"
+    \ minutes.)\n\n**Now, go wiki-editing (anonymously) ↓**"
 - children:
   - TCqZcAECZ36iDI9fuGDyfZ5i
   collapsed: true
