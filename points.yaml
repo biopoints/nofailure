@@ -9,7 +9,7 @@
   content: Biopoints of Failure
   created: 1639724855598
   id: root
-  modified: 1640844771030
+  modified: 1640845183655
   note: '**A human or a fruit-fly, if death is caused by points of system failure,
 
     let''s organize the points of bio-failures by subsystems and eliminate them.
@@ -22,7 +22,13 @@
 
 
     Primary resources: [FIC](https://www.who.int/standards/classifications), [biodigital.com](biodigital.com)
-    How does organism work?'
+    How does organism work?
+
+
+    While FIC focuses on all kinds of ailments, diseases and issue, the real killer
+    is what kills or incapacitates the brain, and that is a small subset of all of
+    the ailments. Considering the existence of rather good BCI, we don''t need need
+    the rest of the body, as long as we have'
 - children:
   - TCqZcAECZ36iDI9fuGDyfZ5i
   collapsed: true
