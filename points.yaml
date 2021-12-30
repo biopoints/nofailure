@@ -6,15 +6,15 @@
   - TTMM5GLScxctkNflXxVAXc_2
   - 3xTxFPWxdYJd0zk4tqU1YZqU
   - 2UGfUnGluV8GzT-OAsP5UFwp
+  - H2dvGC_5tsuHPgmQtBL_AQtF
   content: Biopoints of Failure
   created: 1639724855598
   id: root
-  modified: 1640838869997
-  note: "A human or a fruit-fly, if death is caused by points of system failure,\n\
-    let's organize the points of bio-failures by subsystems and eliminate them.\n\n\
-    Want to analyze, not just write?\n - [Raw data \U0001F4C0](https://github.com/biopoints/nofailure/blob/main/points.yaml)\
-    \ of this page, auto-updated every 5 minutes.\n - [Discussion ✨](https://discord.gg/nwmsPRSeyR)\
-    \ publicly on Discord.\n    \n**Now, go wiki-editing (anonymously) ↓**"
+  modified: 1640839190362
+  note: "**A human or a fruit-fly, if death is caused by points of system failure,\n\
+    let's organize the points of bio-failures by subsystems and eliminate them.**\n\
+    \ - Questions? Come to [discussion ✨](https://discord.gg/nwmsPRSeyR) publicly\
+    \ on Discord.\n\n**Try wiki-editing (anonymously) ↓**"
 - children:
   - TCqZcAECZ36iDI9fuGDyfZ5i
   collapsed: true
@@ -187,3 +187,10 @@
   id: ZE3xukrHvLiyWmhb720sFJaz
   modified: 1640838249998
   note: ''
+- content: CONTRIBUTING
+  created: 1640839064739
+  id: H2dvGC_5tsuHPgmQtBL_AQtF
+  modified: 1640839161361
+  note: "If you contribute, you don't lose it -- raw data goes to GitHub:\n - [Raw\
+    \ data \U0001F4C0](https://github.com/biopoints/nofailure/blob/main/points.yaml)\
+    \ of this page, auto-updated every 5 minutes."
