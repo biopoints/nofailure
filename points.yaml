@@ -6,10 +6,12 @@
   - TTMM5GLScxctkNflXxVAXc_2
   - 3xTxFPWxdYJd0zk4tqU1YZqU
   - 2UGfUnGluV8GzT-OAsP5UFwp
+  - K7cpy998C5ofF_reTaxvYi5B
+  - atpcwFy6l7-kXIotushvz4Sv
   content: Biopoints of Failure
   created: 1639724855598
   id: root
-  modified: 1640845183655
+  modified: 1640845223631
   note: '**A human or a fruit-fly, if death is caused by points of system failure,
 
     let''s organize the points of bio-failures by subsystems and eliminate them.
@@ -22,13 +24,7 @@
 
 
     Primary resources: [FIC](https://www.who.int/standards/classifications), [biodigital.com](biodigital.com)
-    How does organism work?
-
-
-    While FIC focuses on all kinds of ailments, diseases and issue, the real killer
-    is what kills or incapacitates the brain, and that is a small subset of all of
-    the ailments. Considering the existence of rather good BCI, we don''t need need
-    the rest of the body, as long as we have'
+    How does organism work?'
 - children:
   - TCqZcAECZ36iDI9fuGDyfZ5i
   collapsed: true
@@ -207,4 +203,20 @@
   created: 1640838211618
   id: ZE3xukrHvLiyWmhb720sFJaz
   modified: 1640844549964
+  note: ''
+- content: '**Idea**: While FIC focuses on all kinds of ailments, diseases and issue,
+    the real killer is what kills or incapacitates the brain, and that is a small
+    subset of all of the ailments. Considering the existence of rather good BCI, we
+    don''t need need the rest of the body, as long as we have blood to feed the brain.
+    So, on this page, we encourage to focus not on exhaustive list of all things that
+    could fail, but on the things, that fail the good blood delivery to brain, or
+    brain failure.'
+  created: 1640845224770
+  id: atpcwFy6l7-kXIotushvz4Sv
+  modified: 1640845292079
+  note: ''
+- content: ''
+  created: 1640845224523
+  id: K7cpy998C5ofF_reTaxvYi5B
+  modified: 1640845234450
   note: ''
