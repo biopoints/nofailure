@@ -2,6 +2,7 @@
   - LxjQvNjaoF_kU1YRpEaUHID6
   - ydpW3poRGziaNV0r9rUG6C8c
   - qziJokETv9x1I6LE_CQoZnbI
+  - TTMM5GLScxctkNflXxVAXc_2
   - 3xTxFPWxdYJd0zk4tqU1YZqU
   content: Biopoints of Failure
   created: 1639724855598
@@ -18,10 +19,10 @@
   - 4yoKb7Afjqm-wuWZj7P992rS
   - TCqZcAECZ36iDI9fuGDyfZ5i
   collapsed: true
-  content: Circulatory failures
+  content: 'Circulatory failures #clearing #clogging'
   created: 1640794783959
   id: ydpW3poRGziaNV0r9rUG6C8c
-  modified: 1640794903747
+  modified: 1640834697194
   note: ''
 - children:
   - PknrJgKLhe8ZcLHFgOw8anMp
@@ -30,10 +31,10 @@
   - iotaYqw0CWcE3QGHyAguhDY6
   - K5Mf4ch2_Tq32zUAZufviY3H
   collapsed: true
-  content: Signaling failures
+  content: 'Signaling failures  #clearing'
   created: 1640794892165
   id: LxjQvNjaoF_kU1YRpEaUHID6
-  modified: 1640794903747
+  modified: 1640834665271
   note: ''
 - content: Neurological signaling
   created: 1640795236525
@@ -53,10 +54,10 @@
 - children:
   - by1h1kH6rSK1slKuupWzUWoU
   collapsed: true
-  content: Growth control failures
+  content: 'Growth control failures '
   created: 1640795726284
   id: qziJokETv9x1I6LE_CQoZnbI
-  modified: 1640795914039
+  modified: 1640834702586
   note: ''
 - children:
   - 2UGfUnGluV8GzT-OAsP5UFwp
@@ -95,4 +96,16 @@
   created: 1640806166792
   id: TCqZcAECZ36iDI9fuGDyfZ5i
   modified: 1640806174808
+  note: ''
+- children:
+  - GmGdBuU71xnmL0zsZblwRxM6
+  content: Growth resourcefulness failures
+  created: 1640834461883
+  id: TTMM5GLScxctkNflXxVAXc_2
+  modified: 1640834536840
+  note: ''
+- content: Telomere shortening
+  created: 1640834485917
+  id: GmGdBuU71xnmL0zsZblwRxM6
+  modified: 1640834519125
   note: ''
