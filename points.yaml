@@ -6,24 +6,18 @@
   - TTMM5GLScxctkNflXxVAXc_2
   - 3xTxFPWxdYJd0zk4tqU1YZqU
   - 2UGfUnGluV8GzT-OAsP5UFwp
-  - K7cpy998C5ofF_reTaxvYi5B
   - atpcwFy6l7-kXIotushvz4Sv
   content: Biopoints of Failure
   created: 1639724855598
   id: root
-  modified: 1640845223631
-  note: '**A human or a fruit-fly, if death is caused by points of system failure,
-
-    let''s organize the points of bio-failures by subsystems and eliminate them.
-
-    **Questions?** Come to [discussion ✨](https://discord.gg/nwmsPRSeyR) publicly
-    on Discord.
+  modified: 1640848016122
+  note: '**A human or a fruit-fly, if death is caused by critical points of system
+    failure resulting in brain-deaths.
 
     [Source data 📀](https://github.com/biopoints/nofailure/blob/main/points.yaml)
     to download this page (auto-updated every 5 minutes.)
 
-
-    Primary resources: [FIC](https://www.who.int/standards/classifications), [biodigital.com](biodigital.com)
+    Some resources: [FIC](https://www.who.int/standards/classifications), [biodigital.com](biodigital.com)
     How does organism work?'
 - children:
   - TCqZcAECZ36iDI9fuGDyfZ5i
@@ -214,9 +208,4 @@
   created: 1640845224770
   id: atpcwFy6l7-kXIotushvz4Sv
   modified: 1640845292079
-  note: ''
-- content: ''
-  created: 1640845224523
-  id: K7cpy998C5ofF_reTaxvYi5B
-  modified: 1640845234450
   note: ''
