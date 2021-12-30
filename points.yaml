@@ -9,12 +9,12 @@
   content: Biopoints of Failure
   created: 1639724855598
   id: root
-  modified: 1640838549994
+  modified: 1640838869997
   note: "A human or a fruit-fly, if death is caused by points of system failure,\n\
-    let's organize the points of failure by subsystems and eliminate them.\n\nWant\
-    \ to analyze, not just write?\n - [Download raw data \U0001F4C0](https://github.com/biopoints/nofailure/)\
-    \ (Auto-updated every 5 minutes.)\n - [Discussion ✨](https://0oo.li/project/33001/biopoints-of-failure)\n\
-    \    \n**Now, go wiki-editing (anonymously) ↓**"
+    let's organize the points of bio-failures by subsystems and eliminate them.\n\n\
+    Want to analyze, not just write?\n - [Raw data \U0001F4C0](https://github.com/biopoints/nofailure/blob/main/points.yaml)\
+    \ of this page, auto-updated every 5 minutes.\n - [Discussion ✨](https://discord.gg/nwmsPRSeyR)\
+    \ publicly on Discord.\n    \n**Now, go wiki-editing (anonymously) ↓**"
 - children:
   - TCqZcAECZ36iDI9fuGDyfZ5i
   collapsed: true
