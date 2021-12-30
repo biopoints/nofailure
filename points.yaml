@@ -1,4 +1,5 @@
 - children:
+  - EQ-3ES1czyAgxSehqpin1HeE
   - ZE3xukrHvLiyWmhb720sFJaz
   - LxjQvNjaoF_kU1YRpEaUHID6
   - ydpW3poRGziaNV0r9rUG6C8c
@@ -6,15 +7,19 @@
   - TTMM5GLScxctkNflXxVAXc_2
   - 3xTxFPWxdYJd0zk4tqU1YZqU
   - 2UGfUnGluV8GzT-OAsP5UFwp
-  - H2dvGC_5tsuHPgmQtBL_AQtF
   content: Biopoints of Failure
   created: 1639724855598
   id: root
-  modified: 1640839190362
-  note: "**A human or a fruit-fly, if death is caused by points of system failure,\n\
-    let's organize the points of bio-failures by subsystems and eliminate them.**\n\
-    \ - Questions? Come to [discussion ✨](https://discord.gg/nwmsPRSeyR) publicly\
-    \ on Discord.\n\n**Try wiki-editing (anonymously) ↓**"
+  modified: 1640839365638
+  note: '**A human or a fruit-fly, if death is caused by points of system failure,
+
+    let''s organize the points of bio-failures by subsystems and eliminate them.
+
+    **Questions?** Come to [discussion ✨](https://discord.gg/nwmsPRSeyR) publicly
+    on Discord.
+
+
+    **Now, wiki-edit and organize the hierarchy below ↓**'
 - children:
   - TCqZcAECZ36iDI9fuGDyfZ5i
   collapsed: true
@@ -182,15 +187,15 @@
   id: 7nXfQswihXvlWs9LyDV_1Miy
   modified: 1640835551296
   note: ''
-- content: '**BY ABSTRACTION LEVEL:**'
+- content: '**BY ABSTRACTION LEVEL**'
   created: 1640838211618
   id: ZE3xukrHvLiyWmhb720sFJaz
-  modified: 1640838249998
+  modified: 1640839429992
   note: ''
-- content: CONTRIBUTING
-  created: 1640839064739
-  id: H2dvGC_5tsuHPgmQtBL_AQtF
-  modified: 1640839161361
-  note: "If you contribute, you don't lose it -- raw data goes to GitHub:\n - [Raw\
-    \ data \U0001F4C0](https://github.com/biopoints/nofailure/blob/main/points.yaml)\
-    \ of this page, auto-updated every 5 minutes."
+- color: 5
+  content: '**DOWNLOAD THIS LIST**'
+  created: 1640839408856
+  id: EQ-3ES1czyAgxSehqpin1HeE
+  modified: 1640839501115
+  note: '[Raw data 📀](https://github.com/biopoints/nofailure/blob/main/points.yaml)
+    of this page is auto-updated every 5 minutes.'
