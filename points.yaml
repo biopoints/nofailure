@@ -9,7 +9,7 @@
   content: Biopoints of Failure
   created: 1639724855598
   id: root
-  modified: 1640844603638
+  modified: 1640844771030
   note: '**A human or a fruit-fly, if death is caused by points of system failure,
 
     let''s organize the points of bio-failures by subsystems and eliminate them.
@@ -21,7 +21,8 @@
     to download this page (auto-updated every 5 minutes.)
 
 
-    Primary resources: https://www.who.int/standards/classifications/international-classification-of-health-interventions'
+    Primary resources: [FIC](https://www.who.int/standards/classifications), [biodigital.com](biodigital.com)
+    How does organism work?'
 - children:
   - TCqZcAECZ36iDI9fuGDyfZ5i
   collapsed: true
