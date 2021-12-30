@@ -6,19 +6,16 @@
   - TTMM5GLScxctkNflXxVAXc_2
   - 3xTxFPWxdYJd0zk4tqU1YZqU
   - 2UGfUnGluV8GzT-OAsP5UFwp
-  - atpcwFy6l7-kXIotushvz4Sv
   content: Biopoints of Failure
   created: 1639724855598
   id: root
-  modified: 1640848016122
-  note: '**A human or a fruit-fly, if death is caused by critical points of system
-    failure resulting in brain-deaths.
-
-    [Source data 📀](https://github.com/biopoints/nofailure/blob/main/points.yaml)
-    to download this page (auto-updated every 5 minutes.)
-
-    Some resources: [FIC](https://www.who.int/standards/classifications), [biodigital.com](biodigital.com)
-    How does organism work?'
+  modified: 1640851790380
+  note: "Death is brain-death. Look for critical points of system failure. Look for\
+    \ what incapacitates the brain -- one is not dead, if not brain-dead, and that\
+    \ is a small subset of all of the ailments. Good BCI, blood supply and healf of\
+    \ brain.\n\nSome resources: [FIC](https://www.who.int/standards/classifications),\
+    \ [biodigital.com](biodigital.com) \n\n[Page data \U0001F4C0](https://github.com/biopoints/nofailure/blob/main/points.yaml)\
+    \ to download this page (auto-updated every 5 minutes.)"
 - children:
   - TCqZcAECZ36iDI9fuGDyfZ5i
   collapsed: true
@@ -73,9 +70,8 @@
   note: ''
 - children:
   - HEobeXtYP9OTGPDjw3V_0fbg
-  - yPd1HrK-IGK823miAYSLwLFO
-  - 7nXfQswihXvlWs9LyDV_1Miy
   - uNHG1dO50W7_hsXEnO5n5I5w
+  - yPd1HrK-IGK823miAYSLwLFO
   collapsed: true
   content: '**BY ORGANISM SUBSYSTEM** (expand the bullet point)'
   created: 1640797335573
@@ -130,10 +126,10 @@
   - 0a6Da6QN1oF7NobXZV-35A-b
   - B-xgfTJqKpH3qqCX83MH_71z
   collapsed: true
-  content: __**Drosophila**__
+  content: Drosophila
   created: 1640834906550
   id: uNHG1dO50W7_hsXEnO5n5I5w
-  modified: 1640835132262
+  modified: 1640851529609
   note: ''
 - content: Nervous system
   created: 1640834939796
@@ -197,31 +193,15 @@
   id: rFnne15C4Do9KuhfaAso0c8n
   modified: 1640835421292
   note: ''
-- content: Dolphins
+- content: Bottlenose dolphin
   created: 1640835522157
   id: yPd1HrK-IGK823miAYSLwLFO
-  modified: 1640835551296
-  note: ''
-- content: Whales
-  created: 1640835542425
-  id: 7nXfQswihXvlWs9LyDV_1Miy
-  modified: 1640835551296
+  modified: 1640851513563
   note: ''
 - content: '**BY ABSTRACTION LEVEL** (expand each bullet point)'
   created: 1640838211618
   id: ZE3xukrHvLiyWmhb720sFJaz
   modified: 1640844549964
-  note: ''
-- content: '**Idea**: While FIC focuses on all kinds of ailments, diseases and issue,
-    the real killer is what kills or incapacitates the brain, and that is a small
-    subset of all of the ailments. Considering the existence of rather good BCI, we
-    don''t need need the rest of the body, as long as we have blood to feed the brain.
-    So, on this page, we encourage to focus not on exhaustive list of all things that
-    could fail, but on the things, that fail the good blood delivery to brain, or
-    brain failure.'
-  created: 1640845224770
-  id: atpcwFy6l7-kXIotushvz4Sv
-  modified: 1640845292079
   note: ''
 - content: Corpora allata
   created: 1640851461933
