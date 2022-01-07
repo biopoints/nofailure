@@ -76,7 +76,6 @@
   - HEobeXtYP9OTGPDjw3V_0fbg
   - uNHG1dO50W7_hsXEnO5n5I5w
   - yPd1HrK-IGK823miAYSLwLFO
-  collapsed: true
   content: '**BY ORGANISM SUBSYSTEM** (expand the bullet point)'
   created: 1640797335573
   id: 2UGfUnGluV8GzT-OAsP5UFwp
@@ -111,7 +110,6 @@
   - 5eNSiw32Q_-uansjAaWtXN-C
   - DT0Y4Jh3vu0kMOYfCHh59qke
   - EzERT5JWROJqyA6YHNVj9BoB
-  collapsed: true
   content: Homo sapiens
   created: 1640834896588
   id: HEobeXtYP9OTGPDjw3V_0fbg
@@ -129,7 +127,6 @@
   - yW7q4EnrQrGZiSqdPy_4s_mz
   - 0a6Da6QN1oF7NobXZV-35A-b
   - B-xgfTJqKpH3qqCX83MH_71z
-  collapsed: true
   content: Drosophila
   created: 1640834906550
   id: uNHG1dO50W7_hsXEnO5n5I5w
@@ -144,6 +141,7 @@
   - DHC4Ol4Wh8XxAdwHwPNwIgbY
   - 9oTOgoMpLMQgYrVWpOygwOR1
   - 9PTJMOaQjtKu_EC1uNjYO-vD
+  collapsed: true
   content: Head
   created: 1640835125558
   id: 0YYVxCkta71DktdYCQR34RyO
